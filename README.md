@@ -1,4 +1,4 @@
-# Postgresql & PgAdmin powered by compose
+# Postgresql powered by compose
 
 
 ## Requirements:
